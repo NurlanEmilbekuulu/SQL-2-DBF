@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A package that allows to convert sql to dbf files.'
 
 # Setting up
 setup(
-    name="SQL2DBF",
+    name="SQL-2-DBF",
     version=VERSION,
     author="NurlanEmilbekuulu (Nurlan Emilbek uulu)",
     author_email="<nurlan.emilbekuulu96@gmail.com>",
