@@ -1,5 +1,5 @@
-from db.backends.base.base import BaseDatabaseWrapper
-from db.backends.postgresql.instrospection import DatabaseIntrospection
+from sql2dbf.db.backends.base.base import BaseDatabaseWrapper
+from sql2dbf.db.backends.postgresql.instrospection import DatabaseIntrospection
 
 try:
     import psycopg2 as Database
